@@ -20,7 +20,7 @@
                    Text="{Binding Title, UpdateSourceTrigger= PropertyChanged}" />
         <CheckBox Content="发送自动清理"
                   IsChecked="{Binding AutoClearText}"
-                  VerticalAlignment="Top"
+                  VerticalAlignment="Bottom"
                   HorizontalAlignment="Right" 
                   Margin="10"/>
         <StackPanel Orientation="Horizontal"
