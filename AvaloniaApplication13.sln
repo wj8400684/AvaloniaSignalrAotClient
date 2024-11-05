@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaloniaApplication13", "AvaloniaApplication13\AvaloniaApplication13.csproj", "{009FC134-0A82-4983-A07D-626376836B9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{4AF679F6-6B32-4514-9B66-6031D7A2C0B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{009FC134-0A82-4983-A07D-626376836B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{009FC134-0A82-4983-A07D-626376836B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{009FC134-0A82-4983-A07D-626376836B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF679F6-6B32-4514-9B66-6031D7A2C0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF679F6-6B32-4514-9B66-6031D7A2C0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF679F6-6B32-4514-9B66-6031D7A2C0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF679F6-6B32-4514-9B66-6031D7A2C0B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

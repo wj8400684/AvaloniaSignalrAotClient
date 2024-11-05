@@ -8,6 +8,7 @@ using CommunityToolkit.Mvvm.Input;
 using Microsoft.AspNetCore.SignalR.Client;
 using Microsoft.Extensions.DependencyInjection;
 using Ursa.Controls;
+using Notification = Avalonia.Controls.Notifications.Notification;
 
 namespace AvaloniaApplication13.ViewModels;
 
